@@ -1,1 +1,1 @@
-web: gunicorn app:flask_tr
+web: gunicorn flask_tr:create_app()
