@@ -1,3 +1,18 @@
 body {
-    background-color: teal;
+    background-color: rgb(14, 104, 171);
+}
+
+.container {
+    padding: 1em;
+    background-color: rgb(249, 250, 244);
+}
+
+#header-nav {
+    background-color: rgb(21, 11, 0);
+    border-bottom: 5px solid #AB0E1A;
+}
+
+#footer-nav {
+    border-top: 5px solid #AB0E1A;
+    background-color: rgb(21, 11, 0);
 }
